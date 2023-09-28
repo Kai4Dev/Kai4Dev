@@ -14,7 +14,7 @@ I love challenging myself and continually learning new things to improve my skil
 :small_blue_diamond: Java  
 :small_blue_diamond: JS  
 :small_blue_diamond: HTML  
-:small_blue_diamond: CSS 
+:small_blue_diamond: CSS  
 :small_blue_diamond: XML  
 :small_blue_diamond: SQL  
 :small_blue_diamond: NOSQL  
