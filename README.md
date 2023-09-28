@@ -1,12 +1,24 @@
-## **Welcome to Kai Designs!**
+## **Welcome to Kai Designs GitHub page**
 
-### Software developer
+## **Let's code!**
 
-![git_banner_2](https://github.com/Kai4Dev/Kai4Dev/assets/137760833/0cebaa8b-8fea-44c3-8886-6623d0cfd5e2)
+![git_banner](https://github.com/Kai4Dev/Kai4Dev/assets/137760833/5009a470-a301-4177-aa80-0879a035c08b)
 
 ### About me:
 
-### Check my work:
+Hi! My name is Jorge Vázquez, software developer from Zaragoza, Spain.  
+I am absolutely passionate about technology.  
+I love challenging myself and continually learning new things to improve my skills.
+
+### Skills:
+:small_blue_diamond: Java  
+:small_blue_diamond: JS  
+:small_blue_diamond: HTML  
+:small_blue_diamond: CSS 
+:small_blue_diamond: XML  
+:small_blue_diamond: SQL  
+:small_blue_diamond: NOSQL  
+<!-- ### Check my work: -->
 
 ### Contact:
 
