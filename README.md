@@ -1,4 +1,4 @@
-## **Welcome to Kai Designs GitHub page**
+# **Welcome to Kai Designs GitHub page**
 
 ## **Let's code!**
 
