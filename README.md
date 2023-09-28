@@ -1,16 +1,13 @@
-### Hi there 👋
+## **Welcome to Kai Designs!**
 
-<!--
-**Kai4Dev/Kai4Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software developer
 
-Here are some ideas to get you started:
+![git_banner_2](https://github.com/Kai4Dev/Kai4Dev/assets/137760833/0cebaa8b-8fea-44c3-8886-6623d0cfd5e2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+
+### Check my work:
+
+### Contact:
+
+![git_mail_banner](https://github.com/Kai4Dev/Kai4Dev/assets/137760833/64f9e25e-de1c-486f-a818-d8d70ca6b405)
